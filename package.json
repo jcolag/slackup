@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jcolag/slackup/issues"
   },
-  "homepage": "https://github.com/jcolag/slackup#readme"
+  "homepage": "https://github.com/jcolag/slackup#readme",
+  "dependencies": {
+    "slack": "^11.0.0"
+  }
 }
