@@ -57,3 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+# gedit backup
+*~
+
+# output
+data*
+
+# Visual Studio Code
+.vscode
+
